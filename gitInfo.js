@@ -10,7 +10,8 @@
 */
 
 //CODE HERE
-
+const gitDefinition = "Git is a version control software. It can be used to keep versions of your software and colaborate with other team members";
+ 
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +19,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = "github is a website that provides free git repositories to anyone";
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,6 +27,7 @@
 */
 
 //CODE HERE
+const gitInitDefinition = "git init is used to initialize a repository. If you have all your code files in a folder, you would run 'git init' in order to start a new repository";
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +36,7 @@
 */
 
 //CODE HERE
+const gitCloneDefinition = "git clone is a command used to copy other repositories. You can use it to copy public repos, or your own repo if you are working on a different machine";
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,7 +45,7 @@
 */
 
 //CODE HERE
-
+const gitStatusDefinition = "git status will give you the current changes between current state and the last commit. it also shows your current branch. 
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -73,3 +76,4 @@
 */
 
 //CODE HERE
+    //HAHAHAh
