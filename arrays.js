@@ -49,4 +49,3 @@ for (let i = 0; i < bigOrSmallArray.length; i++){
         answers.push('small');
     }   
 }
-//it's not pushing my changes

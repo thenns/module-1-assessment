@@ -45,7 +45,7 @@ const gitCloneDefinition = "git clone is a command used to copy other repositori
 */
 
 //CODE HERE
-const gitStatusDefinition = "git status will give you the current changes between current state and the last commit. it also shows your current branch. 
+const gitStatusDefinition = "git status will give you the current changes between current state and the last commit. It also shows your current branch."; 
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -56,7 +56,7 @@ const gitStatusDefinition = "git status will give you the current changes betwee
 */
 
 //CODE HERE
-
+const gitAddDefinition = "Git add adds whatever file or directory to the working directory, but doesn't commit any changes ";
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -67,7 +67,7 @@ const gitStatusDefinition = "git status will give you the current changes betwee
 */
 
 //CODE HERE
-
+const gitCommitCode = "Git commit will save all the changes you've made to the files in the workign directory so you can push those changes to your repository ";
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -76,4 +76,4 @@ const gitStatusDefinition = "git status will give you the current changes betwee
 */
 
 //CODE HERE
-    //HAHAHAh
+const gitPushDefinition = "Git push will push or publish the changes to the code you've made, as well as new directories or files you've added and will write them to your repository";
